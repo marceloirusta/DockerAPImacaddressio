@@ -1,7 +1,6 @@
 import requests
 import os
 
-#mac_address = input('Insert the mac address you want to query')
 apikey = os.environ['API_KEY']
 def main():
     def get_first_google_result(s):
