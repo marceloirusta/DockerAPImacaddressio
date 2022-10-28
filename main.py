@@ -8,7 +8,7 @@ def main():
         companyNameResponse = r.json()['vendorDetails']['companyName']
         google_formatted_param = companyNameResponse.replace(" ", "+")
         google_url_search = f"https://www.google.com/search?q={google_formatted_param}&btnI"
-        print(f"The company name associated with this mac address is: {companyNameResponse}. And you can have more info about it by clicking on this link {google_url_search}")
+        print(f"The company name associated with this mac address is: {companyNameResponse}.\nYou can have more info about it by clicking on this link {google_url_search}")
         
 
     input_mac_address = input('Please insert the mac address you want to query: ')
