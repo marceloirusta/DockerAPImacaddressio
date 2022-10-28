@@ -56,7 +56,7 @@ Expected Response:
 You'll get a message with the company name associated with that mac addres and a link related to the actual company. You can click on it an it will redirect you either to the company page or a google confirmation page previous to your destination URL.
 
 
-![alt text](https://files.slack.com/files-pri/T02LRKTL7-F048A0KQ10E/image.png?pub_secret=c7f9cd52af)
+![alt text](https://files.slack.com/files-pri/T02LRKTL7-F048V8KSMA5/image.png?pub_secret=034bc5cb2f)
 
 ## Authors
 
